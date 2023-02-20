@@ -22,54 +22,13 @@ horizontal: false
 </ul>
 <!-- /wp:list -->
 
-<!-- wp:heading -->
-<h4><span style="color: var(--global-theme-color)">Projects</span></h4>
-<!-- /wp:heading -->
+<p style="font-size:1.8rem"> In this page you encounter links to blog posts and general outreach content:</p>
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+&nbsp;
+<ul style="font-size:1.8rem">
+ 	<li class="entry-title"><strong>Unsere Forschung im Dialog|Quantum Cryptography:</strong> Check out this <a href="https://www.youtube.com/watch?v=oSAPe_pfqzE&ab_channel=ML4QClusterofExcellence">video</a>, where, together with colleagues and the ML4Q, we try to explain our recent findings on Quantum Cryptography in four levels of difficulty!</li>
+</ul>
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
-</div>
+<ul style="font-size:1.8rem">
+ 	<li class="entry-title"><strong>Playing cards with quantum entanglement:</strong> Here you can find the blog post I wrote for <a href="https://blog.qutech.nl/index.php/2017/02/10/playing-card-with-quantum-entanglement/">Bits of Quantum - A blog by QuTech</a>.</li>
+</ul>
