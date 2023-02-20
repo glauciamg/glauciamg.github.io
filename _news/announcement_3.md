@@ -5,4 +5,3 @@ inline: true
 ---
 
 Follow the Düsseldorf Quantum Info Online Seminars! 
-
