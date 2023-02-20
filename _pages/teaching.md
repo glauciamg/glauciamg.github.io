@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+[Focus Semester on Quantum Information](https://www.uni-saarland.de/page/quantum-information.html) at Saarland University: Security proofs of quantum key distribution
 
-Organize your courses by years, topics, or universities, however you like!
+Winter break 2021: Security proofs of quantum key distribution
