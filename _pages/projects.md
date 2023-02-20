@@ -18,13 +18,14 @@ horizontal: false
 <li style="font-size: 1.8rem;">Quantum communication and cryptography</li>
 <li style="font-size: 1.8rem;">Foundations of quantum mechanics</li>
 <li style="font-size: 1.8rem;">Network protocols</li>
-<li style="font-size: 1.8rem;">Quantum correlations: entanglement and nonlocality</li>
+<li>Quantum correlations: entanglement and nonlocality</li>
 </ul>
 <!-- /wp:list -->
 
 <!-- wp:heading -->
 <h4>Projects</h4>
 <!-- /wp:heading -->
+subtitle: Projects
 
 <!-- pages/projects.md -->
 <div class="projects">
