@@ -2,31 +2,27 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Gláucia Murta Guimarães
     - name: Date of Birth
-      value: 14th March 1879
+      value: 18th January 1988
     - name: Languages
-      value: English, German
+      value: English, Portuguese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD in Physics
+      institution: Federal University of Minas Gerais - UFMG, Belo Horizonte, Brazil
+      year: 2012 - 2016
+    - title: Research stay abroad
+      institution: National Quantum Information Centre in Gdansk, Gda&#324sk Poland
+      year: 2013 - 2014
+    - title: Master in Physics
+      institution: Federal University of Minas Gerais - UFMG, Belo Horizonte, Brazil
+      year: 2010 - 2012 
+    - title: Bachelor in Physics
+      institution: Federal University of Minas Gerais - UFMG, Belo Horizonte, Brazil
+      year: 2006 - 2010 
 
 - title: Experience
   type: time_table
