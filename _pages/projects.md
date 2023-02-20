@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <!-- wp:heading -->
-<h4><span style="color: #1e73be;">Research interests</span></h4>
+<h4><span style="color: theme-color">Research interests</span></h4>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
@@ -18,7 +18,7 @@ horizontal: false
 <li style="font-size: 1.8rem;">Quantum communication and cryptography</li>
 <li style="font-size: 1.8rem;">Foundations of quantum mechanics</li>
 <li><h2>Network protocols</h2></li>
-<li><h3>Quantum correlations: entanglement and nonlocality</h3></li>
+<li><h5>Quantum correlations: entanglement and nonlocality</h5></li>
 </ul>
 <!-- /wp:list -->
 
