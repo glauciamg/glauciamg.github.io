@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Heinrich-Heine-Universität Düsseldorf</a>. 
+subtitle: <a href='#'>Heinrich-Heine-Universität Düsseldorf</a> 
 
 profile:
   align: right
@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Universitätsstraße 1</p>
-    <p>Gebäude: 25.32 Etage/Raum: 03.50</p>
+    <p>Gebäude: 25.32</p>
+    <p>Etage/Raum: 03.50</p>
     <p>40225 Düsseldorf – Germany</p>
 
 news: true  # includes a list of news items
