@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: List of courses. Lecture notes can be made available upon request.
 nav: true
 nav_order: 5
 ---
