@@ -9,6 +9,23 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+<!-- wp:heading -->
+<h4><span style="color: #1e73be;">Research interests</span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul>
+<li style="font-size: 1.8rem;">Quantum communication and cryptography</li>
+<li style="font-size: 1.8rem;">Foundations of quantum mechanics</li>
+<li style="font-size: 1.8rem;">Network protocols</li>
+<li style="font-size: 1.8rem;">Quantum correlations: entanglement and nonlocality</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h4>Projects</h4>
+<!-- /wp:heading -->
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
