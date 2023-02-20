@@ -10,22 +10,21 @@ horizontal: false
 ---
 
 <!-- wp:heading -->
-<h4><span style="color: theme-color">Research interests</span></h4>
+<h4><span style="color: var(--global-theme-color)">Research interests</span></h4>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
 <ul>
-<li style="font-size: 1.8rem;">Quantum communication and cryptography</li>
-<li style="font-size: 1.8rem;">Foundations of quantum mechanics</li>
-<li><h2>Network protocols</h2></li>
+<li><h5>Quantum communication and cryptography</h5></li>
+<li><h5>Foundations of quantum mechanics</h5></li>
+<li><h5>Network protocols</h5></li>
 <li><h5>Quantum correlations: entanglement and nonlocality</h5></li>
 </ul>
 <!-- /wp:list -->
 
 <!-- wp:heading -->
-<h4>Projects</h4>
+<h4><span style="color: var(--global-theme-color)">Projects</span></h4>
 <!-- /wp:heading -->
-
 
 <!-- pages/projects.md -->
 <div class="projects">
