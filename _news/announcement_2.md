@@ -1,31 +1,23 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Open PhD position
+date: 2022-12-22 16:11:00-0400
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+
+Open position
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+<strong>PhD position in Multipartite quantum networks</strong>
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+The quantum information theory group at the Institute for Theoretical Physics, University of Düsseldorf (Germany), is inviting applications for a PhD position within the project 'Multipartite quantum networks' led by Gláucia Murta. The position is funded by the Cluster of Excellence Matter and Light for Quantum Computing (<a href="https://ml4q.de/">ML4Q</a>).
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+The successful candidate will work on quantum correlations and their applications to quantum communication and network protocols. The PhD candidate will collaborate with national and international partners. In particular, the project involves close collaboration with quantum optics experimentalists in investigating and benchmarking new sources of multipartite entanglement.
 
-***
+Candidates should send a full CV including certificates and a list of publications to <a href="mailto:glaucia.murta@uni-duesseldorf.de">glaucia.murta@uni-duesseldorf.de</a>.  Please include electronic contact details of two referees. Further information on the position is available upon request. The deadline is <strong>January 23, 2023</strong>. Later applications will be considered in case the positions will not have been filled. The expected starting date is spring 2023 (partially negotiable).
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+The salary is based on the German TV-L E13 pay scale. The appointment is for three years, at 50%E13.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+We are looking forward to receiving your application!
