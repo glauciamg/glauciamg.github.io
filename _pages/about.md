@@ -15,8 +15,8 @@ profile:
     <p>40225 Düsseldorf – Germany</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am a Principal Investigator in the cluster of excellence [Matter and Light for Quantum Computing - ML4Q](https://ml4q.de/) and I work at the [Heinrich-Heine-Universität Düsseldorf](https://www.tp3.hhu.de/mitarbeiter.html) (working in Dagmar Bruß’s group) and . Before that, I worked as postdoc researcher at QuTech-TUDelft in the Netherlands. I obtained my PhD from Federal University of Minas Gerais in Brazil. During my PhD I had a research stay abroad at the Quantum Information Center in Gdańsk (KCIK) in Poland.
