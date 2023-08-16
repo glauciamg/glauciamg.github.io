@@ -29,10 +29,17 @@ from Universidade Federal de Santa Maria, and supported by the INCT de Informaç
 
 
 &nbsp;
-<ul style="font-size:1.8rem">
- 	<li class="entry-title"><strong>Unsere Forschung im Dialog|Quantum Cryptography:</strong> Check out this <a href="https://www.youtube.com/watch?v=oSAPe_pfqzE&ab_channel=ML4QClusterofExcellence">video</a>, where, together with colleagues and the ML4Q, we try to explain our recent findings on Quantum Cryptography in four levels of difficulty!</li>
-</ul>
 
-<ul style="font-size:1.8rem">
- 	<li class="entry-title"><strong>Playing cards with quantum entanglement:</strong> Here you can find the blog post I wrote for <a href="https://blog.qutech.nl/index.php/2017/02/10/playing-card-with-quantum-entanglement/">Bits of Quantum - A blog by QuTech</a>.</li>
-</ul>
+<!-- wp:heading -->
+<h4><span style="color: var(--global-theme-color)">Unsere Forschung im Dialog|Quantum Cryptography:</span></h4>
+<!-- /wp:heading -->
+
+<h5> Check out this <a href="https://www.youtube.com/watch?v=oSAPe_pfqzE&ab_channel=ML4QClusterofExcellence">video</a>, where, together with colleagues and the ML4Q, we try to explain our recent findings on Quantum Cryptography in four levels of difficulty!</h5>
+
+&nbsp;
+
+<!-- wp:heading -->
+<h4><span style="color: var(--global-theme-color)">Playing cards with quantum entanglement:</span></h4>
+<!-- /wp:heading -->
+
+<h5> Here you can find the blog post I wrote for <a href="https://blog.qutech.nl/index.php/2017/02/10/playing-card-with-quantum-entanglement/">Bits of Quantum - A blog by QuTech</a>.</h5>
