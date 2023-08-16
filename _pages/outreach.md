@@ -11,9 +11,12 @@ horizontal: false
 
 
 
-<p style="font-size:1.8rem"> Links and information on blog posts and general outreach content:</p>
+<h4> Links and information on blog posts and general outreach content:<h4>
 
 &nbsp;
+<!-- wp:heading -->
+<h4><span style="color: var(--global-theme-color)">Research interests</span>(more soon)</h4>
+<!-- /wp:heading -->
 <h4><span style="color: var(--global-theme-color)"><strong>Podcast O Q Quântico:</strong></span></h4>
   <h5> (more info coming soon) 
 The podcast ‘O Q Quântico’, which is currently in the production phase, aims at introducing
