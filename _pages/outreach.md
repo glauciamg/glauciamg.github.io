@@ -19,12 +19,12 @@ horizontal: false
 <!-- /wp:heading -->
 
   <h5>  
-The podcast ‘O Q Quântico’, which is currently in the production phase, aims at introducing
+Currently in the production phase, the podcast ‘O Q Quântico’  aims at introducing
 basic concepts of quantum theory to the general public while confronting misinformation and
 pseudo-science. We also aim at bringing visibility to the quantum information community in
-Brazil by regularly interviewing researchers in the podcast. The project developed in collaboration
-with Prof. Leonardo Guerini, from Universidade Federal de Santa Maria, and Revista Arco, also
-from Universidade Federal de Santa Maria, and supported by the INCT de Informação Quântica and the cluster of Excellence Matter and Light for Quantum Computing.<h5>
+Brazil by interviewing researchers from different universities in the podcast. The project is developed in collaboration
+with Leonardo Guerini, from Universidade Federal de Santa Maria, and Revista Arco, also
+from Universidade Federal de Santa Maria, and is supported by the INCT de Informação Quântica and the Cluster of Excellence Matter and Light for Quantum Computing.<h5>
 
 
 
