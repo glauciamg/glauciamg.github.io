@@ -9,20 +9,21 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- wp:heading -->
-<h4><span style="color: var(--global-theme-color)">Research interests</span></h4>
-<!-- /wp:heading -->
 
-<!-- wp:list -->
-<ul>
-<li><h5>Quantum communication and cryptography</h5></li>
-<li><h5>Foundations of quantum mechanics</h5></li>
-<li><h5>Network protocols</h5></li>
-<li><h5>Quantum correlations: entanglement and nonlocality</h5></li>
-</ul>
-<!-- /wp:list -->
 
 <p style="font-size:1.8rem"> In this page you encounter links to blog posts and general outreach content:</p>
+
+&nbsp;
+<ul style="font-size:1.8rem">
+ 	<li class="entry-title"><strong>Podcast O Q Quântico:</strong> (more info coming soon) 
+The podcast ‘O Q Quântico’, which is currently in the production phase, aims at introducing
+basic concepts of quantum theory to the general public while confronting misinformation and
+pseudo-science. We also aim at bringing visibility to the quantum information community in
+Brazil by regularly interviewing researchers in the podcast. The project developed in collaboration
+with Prof. Leonardo Guerini, from Universidade Federal de Santa Maria, and Revista Arco, also
+from Universidade Federal de Santa Maria, and supported by the INCT de Informação Quântica and the cluster of Excellence Matter and Light for Quantum Computing.</li>
+</ul>
+
 
 &nbsp;
 <ul style="font-size:1.8rem">
