@@ -4,7 +4,7 @@ title: Device-independent cryptography
 description: device-independence is the most adversarial
 scenario in quantum cryptography. It leads to cryptographic protocols that are secure even
 when the systems are not well characterized or manufactured by an untrusted provider.
-img: assets/img/diqkd2.pdf
+img: assets/img/diqkd2.png
 importance: 1
 category: work
 ---
@@ -28,7 +28,7 @@ settings) and outputs (measurement outcomes).
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DIscenario.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DIscenario.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
