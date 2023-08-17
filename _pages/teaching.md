@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 <!-- wp:heading -->
-<h4><span style="color: var(--global-theme-color)">Security proofs of quantum key distribution</span>  (latest notes) </h4>
+<h4><strong><span style="color: var(--global-theme-color)">Security proofs of quantum key distribution</span></strong>  (latest notes) </h4>
 <!-- /wp:heading -->
 
 <!-- wp:list -->
