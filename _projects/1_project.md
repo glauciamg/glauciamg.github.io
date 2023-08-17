@@ -1,37 +1,32 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Device-independent cryptography
+description: device-independence is the most adversarial
+scenario in quantum cryptography. It leads to cryptographic protocols that are secure even
+when the systems are not well characterized or manufactured by an untrusted provider.
+img: assets/img/diqkd2.jpg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Quantum properties lead to levels of security for cryptographic tasks that are inconceivable
+even with the most powerful classical technology. The notorious example is quantum key
+distribution (QKD), in which two parties, Alice and Bob, establish a secret key unknown to an
+eavesdropper, Eve, with unlimited resources. This allows them to communicate with unconditional
+security, in contrast to current cryptosystems that rely on computational assumptions.
+A successful implementation of QKD requires a precise characterization of the underlying
+quantum system. Deviations from such assumptions led to the hacking of many commercially
+available QKD schemes. Hence, without a full characterization of the systems, or if they are
+manufactured by an untrustworthy provider, can we still achieve secure communication? Surprisingly,
+quantum properties also offer a solution to this problem, and secure communication can
+be established even when the users are ignorant about the internal working of their devices. This
+is the device-independent (DI) paradigm, which models systems and measurement apparatuses as black boxes where the only relevant information is the statistics of inputs (measurement
+settings) and outputs (measurement outcomes).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
+        {% include figure.html path="assets/img/DIscenario" title="The device-independent scenario" class="img-fluid rounded z-depth-1" %}
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 <div class="row">
