@@ -26,6 +26,8 @@ horizontal: false
 <h4><span style="color: var(--global-theme-color)">Projects</span></h4>
 <!-- /wp:heading -->
 
+<h5>(Page under construction)</h5>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
