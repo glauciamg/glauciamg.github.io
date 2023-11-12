@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 4
+title: O Q Qu\^antico
 description: another without an image
 img:
 importance: 3
+redirect: https://unsplash.com
 category: outreach
 ---
 
