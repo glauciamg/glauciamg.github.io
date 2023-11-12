@@ -5,7 +5,7 @@ permalink: /outreach/
 description: 
 nav: true
 nav_order: 3
-display_categories: [work]
+display_categories: [outreach]
 horizontal: false
 ---
 
