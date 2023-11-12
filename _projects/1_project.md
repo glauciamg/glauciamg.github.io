@@ -2,7 +2,7 @@
 layout: page
 title: Device-independent cryptography
 description: It leads to cryptographic protocols that are secure even when the systems are not well characterized or manufactured by an untrusted provider.
-img: assets/img/diqkd2.png
+img: assets/img/diqkd.pdf
 importance: 1
 category: work
 ---
