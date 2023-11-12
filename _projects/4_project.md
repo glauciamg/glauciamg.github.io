@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Podcast: "O Q Qu&acirc;ntico"
+title: Podcast O Q Qu&acirc;ntico
 description: another without an image
 img:
 importance: 4
