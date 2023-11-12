@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: Quantum Network Protocols
 description: a project with a background image
 img: assets/img/AnonymousTransfer.png
 importance: 2
