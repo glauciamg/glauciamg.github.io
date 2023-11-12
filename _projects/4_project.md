@@ -1,6 +1,6 @@
 ---
 layout: page
-title: O Q Qu&acircntico
+title: O Q Qu&acirc;ntico
 description: another without an image
 img:
 importance: 3
