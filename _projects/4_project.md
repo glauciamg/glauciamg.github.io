@@ -2,7 +2,7 @@
 layout: page
 title: Podcast O Q Qu&acirc;ntico
 description: another without an image
-img:
+img: assets/img/1.jpg
 importance: 4
 redirect: https://unsplash.com
 category: outreach
