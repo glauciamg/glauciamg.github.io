@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 3
+title: Multipartite Quantum Networks
 description: a project that redirects to another website
 img: assets/network.png
 redirect: https://unsplash.com
