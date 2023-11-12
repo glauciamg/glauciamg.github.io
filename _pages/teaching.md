@@ -8,10 +8,10 @@ nav_order: 5
 ---
 
 <!-- wp:heading -->
-<h4><strong><span style="color: var(--global-theme-color)">Security proofs of quantum key distribution</span></strong>  (latest notes) </h4>
+<h4><strong><span style="color: var(--global-theme-color)">Security proofs of quantum key distribution</span></strong>  </h4>
 <!-- /wp:heading -->
 
-<h6>Lecture notes</a></h6>
+<h5>Lecture notes: <a href="assets/pdf/LectureNotes_SecurityQKD.pdf" target="_blank">PDF</a></h5>
 
 <!-- wp:list -->
 <ul>
