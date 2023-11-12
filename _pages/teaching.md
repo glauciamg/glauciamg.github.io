@@ -11,7 +11,7 @@ nav_order: 5
 <h4><strong><span style="color: var(--global-theme-color)">Security proofs of quantum key distribution</span></strong>  </h4>
 <!-- /wp:heading -->
 
-<h5>Lecture notes: <a href="glauciamg.github.io/assets/pdf/LectureNotes_SecurityQKD.pdf" target="_blank">PDF</a></h5>
+<h5>Lecture notes: <a href="https://glauciamg.github.io/assets/pdf/LectureNotes_SecurityQKD.pdf" target="_blank">PDF</a></h5>
 
 <!-- wp:list -->
 <ul>
