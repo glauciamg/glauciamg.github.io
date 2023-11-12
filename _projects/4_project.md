@@ -3,7 +3,7 @@ layout: page
 title: O Q Qu&acirc;ntico
 description: another without an image
 img:
-importance: 3
+importance: 4
 redirect: https://unsplash.com
 category: outreach
 ---
