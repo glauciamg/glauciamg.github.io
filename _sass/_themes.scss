@@ -20,7 +20,9 @@
     display : none;
   }
   .fa-moon {
-    display : none;
+    padding-left: 10px;
+    padding-top: 12px;
+    display : block;
   }
 
   .repo-img-light {
@@ -46,7 +48,9 @@ html[data-theme='dark'] {
   --global-card-bg-color: #{$grey-900};
 
   .fa-sun {
-    display : none;
+    padding-left: 10px;
+    padding-top: 12px;
+    display : block;
   }
   .fa-moon {
     display : none;
