@@ -3,7 +3,6 @@ layout: page
 title: Multipartite Quantum Networks
 description: a project that redirects to another website
 img: assets/img/network.png
-redirect: 
 importance: 3
 category: work
 ---
