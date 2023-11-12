@@ -25,7 +25,7 @@
       description:
         - Stephanie Wehner&apos;s Group
 
-  - title: Education
+- title: Education
   type: time_table
   contents:
     - title: PhD in Physics
