@@ -13,7 +13,7 @@ nav_order: 5
 
 <!-- wp:list -->
 <ul>
-  <li><h5>2022 November: <a href="https://www.uni-saarland.de/page/quantum-information.html">Focus Semester on Quantum Information</a></h5></li>
+  <li><h4>2022 November: <a href="https://www.uni-saarland.de/page/quantum-information.html">Focus Semester on Quantum Information</a></h4></li>
 <li><h5>2021 March: <a href="https://ml4q.de/registration-intensive-weeks/">ML4Q Intensive weeks</a></h5></li>
 </ul>
 <!-- /wp:list -->
