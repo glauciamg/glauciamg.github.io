@@ -11,10 +11,12 @@ nav_order: 5
 <h4><strong><span style="color: var(--global-theme-color)">Security proofs of quantum key distribution</span></strong>  (latest notes) </h4>
 <!-- /wp:heading -->
 
+<h6>Lecture notes</a></h6>
+
 <!-- wp:list -->
 <ul>
-  <li><h4>2022 November: <a href="https://www.uni-saarland.de/page/quantum-information.html">Focus Semester on Quantum Information</a></h4></li>
-<li><h5>2021 March: <a href="https://ml4q.de/registration-intensive-weeks/">ML4Q Intensive weeks</a></h5></li>
+  <li><h6>2022 November: <a href="https://www.uni-saarland.de/page/quantum-information.html">Focus Semester on Quantum Information</a></h6></li>
+<li><h6>2021 March: <a href="https://ml4q.de/registration-intensive-weeks/">ML4Q Intensive weeks</a></h6></li>
 </ul>
 <!-- /wp:list -->
 
