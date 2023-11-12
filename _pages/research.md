@@ -5,7 +5,7 @@ permalink: /research/
 description: 
 nav: true
 nav_order: 1
-display_categories: [work, outreach]
+display_categories: [work]
 horizontal: false
 ---
 
@@ -23,7 +23,7 @@ horizontal: false
 <!-- /wp:list -->
 
 <!-- wp:heading -->
-<h4><span style="color: var(--global-theme-color)">Projects</span></h4>
+<h4><span style="color: var(--global-theme-color)">Research topics</span></h4>
 <!-- /wp:heading -->
 
 <h5>(Page under construction)</h5>
