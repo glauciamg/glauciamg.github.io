@@ -19,7 +19,7 @@ horizontal: true
 <!-- /wp:heading -->
 
   <h5>  
-The podcast [‘O Q Quântico’](https://www.ufsm.br/midias/arco/o-q-quantico)  aims at introducing
+The podcast <a href="https://www.ufsm.br/midias/arco/o-q-quantico">‘O Q Quântico’</a>  aims at introducing
 basic concepts of quantum theory to the general public while confronting misinformation and
 pseudo-science. We also aim at bringing visibility to the quantum information community in
 Brazil by interviewing researchers from different universities in the podcast. The project is developed in collaboration
