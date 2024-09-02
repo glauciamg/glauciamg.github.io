@@ -10,11 +10,11 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Vienna University of Technology</p>
-    <p>Atominstitu</p>
+    <p>Atominstitut</p>
     <p>Research Unit of Quantum Optics and Quantum Information</p>
     <p>Stadionallee 2 </p>
     <p>1020 Wien</p>
-    <p> ZE 02 18</p>
+    
     
 
 news: false  # includes a list of news items
