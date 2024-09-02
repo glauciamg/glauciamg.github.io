@@ -7,13 +7,16 @@
       value: 18th January 1988
     - name: Languages
       value: English, Portuguese
+       - title: Assistant Professor
+      institution: Cluster of Excellence ML4Q
+      year: 2023 - 2024
 
 - title: Experience
   type: time_table
   contents:
     - title: Principal Investigator
       institution: Cluster of Excellence ML4Q
-      year: 2023 - current
+      year: 2023 - 2024
     - title: Subgroup leader
       institution: Heinrich Heine Universität Düsseldorf, Germany
       year: 2019 - 2022
