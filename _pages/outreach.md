@@ -15,11 +15,11 @@ horizontal: true
 
 &nbsp;
 <!-- wp:heading -->
-<h4><strong><span style="color: var(--global-theme-color)">Podcast O Q Quântico</span>(more info coming soon)</strong></h4>
+<h4><strong><span style="color: var(--global-theme-color)">Podcast O Q Quântico</span></strong></h4>
 <!-- /wp:heading -->
 
   <h5>  
-Currently in the production phase, the podcast ‘O Q Quântico’  aims at introducing
+The podcast [‘O Q Quântico’]<https://www.ufsm.br/midias/arco/o-q-quantico>  aims at introducing
 basic concepts of quantum theory to the general public while confronting misinformation and
 pseudo-science. We also aim at bringing visibility to the quantum information community in
 Brazil by interviewing researchers from different universities in the podcast. The project is developed in collaboration
