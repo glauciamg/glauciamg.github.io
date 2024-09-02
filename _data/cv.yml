@@ -12,7 +12,7 @@
   type: time_table
   contents:      
        - title: Assistant Professor
-      institution: Technische Universität Wien
+         institution: Technische Universität Wien
 
 - title: Experience
   type: time_table
