@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Vienna University of Technology</p>
-  <p>Atominstitu</p>
+    <p>Atominstitu</p>
     <p>Research Unit of Quantum Optics and Quantum Information</p>
     <p>Stadionallee 2 </p>
     <p>1020 Wien</p>
