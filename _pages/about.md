@@ -2,8 +2,6 @@
 layout: about
 title: About
 permalink: /
-nav: true
-nav_order: 0
 subtitle: <a href="https://www.tuwien.at/en/">Atominstitut - TU Wien</a>
 
 profile:
